@@ -1,15 +1,16 @@
-# roomba-eps8266
-Roomba esp8266
-Simple API call to the ESP to start vacuum and to send the bot home(dock)
+# Roomba-ESP8266
+Roomba ESP8266
+API to call the ESP to start, Stop, Paus and Home(Dock).
 
-See the [Wiki](https://github.com/incmve/roomba-eps8266/wiki/) for more info.
+I call him RamboMomo
+
+
 
 Use at your own risk!!
 
-
 ![alt tag](https://github.com/incmve/roomba-eps8266/blob/master/Images/roombot-interface.jpg)
 
-Preview on YT
-https://www.youtube.com/watch?v=j58JWRCPJnU
 
-MQTT version but untested here: https://github.com/incmve/Roomba-esp8266-MQTT
+
+
+[GitHub]Fork from (https://github.com/incmve/roomba-esp8266)
